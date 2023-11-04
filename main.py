@@ -6,8 +6,8 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 
 print('Starting up bot...')
 
-TOKEN: Final = 'YOUR TOKEN'
-BOT_USERNAME: Final = '@your_bot_user'
+TOKEN: Final = '6483547691:AAHuyrnZbc9XTiCGe-MB8SiwZXF385OOhxs'
+BOT_USERNAME: Final = '@basicfortest77'
 
 
 # Lets us use the /start command
